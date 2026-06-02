@@ -68,7 +68,7 @@ python3 scripts/process_data.py
 
 > Esto genera `data/dashboard_data.json` con todos los datos pre-procesados que consume el backend.
 
-Si no tienes el script, puedes ejecutar directamente desde la raiz:
+Si no se tiene el script, ejecutar directamente desde la raiz:
 
 ```bash
 python3 - << 'EOF'
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Edita `backend/.env` con tus valores:
+Edita `backend/.env` con valores:
 
 ```env
 MONGO_URL=mongodb://localhost:27017
