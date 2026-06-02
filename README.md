@@ -15,6 +15,7 @@ Dashboard interactivo construido en React (Atomic Design) + FastAPI + MongoDB pa
 - **Formulario de predicción**: ingresa datos de un tramo y predice nivel ALTA / MEDIA / BAJA
 - **Tabla de alertas** con filtros, búsqueda y modal de detalle por tramo
 
+  Para una comprension mas sencilla del analisis del modelo utilizado para el analisis de los datos, consultar: https://colab.research.google.com/drive/1ndY6-Osi5LksIreRuphxdT4cTG8wg1gV?usp=sharing
 ### Estructura Atomic Design
 ```
 frontend/src/components/
