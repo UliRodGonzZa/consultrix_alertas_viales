@@ -1,0 +1,2033 @@
+{
+  "kpis": {
+    "tramo_critico": "MEXICO-PUEBLA",
+    "tramo_score": 120.0,
+    "estado_peligroso": "Puebla",
+    "estado_indice": 100.0,
+    "dia_peligroso": "Sabado",
+    "dia_tasa": 20.07,
+    "pct_nocturnos": 42.3,
+    "total_accidentes": 11873,
+    "total_mortales": 2203,
+    "anio_datos": 2025
+  },
+  "trafico_anual": [
+    {
+      "anio": 2021,
+      "total_millones": 53.5
+    },
+    {
+      "anio": 2022,
+      "total_millones": 57.9
+    },
+    {
+      "anio": 2023,
+      "total_millones": 348.3
+    },
+    {
+      "anio": 2024,
+      "total_millones": 335.6
+    },
+    {
+      "anio": 2025,
+      "total_millones": 159.0
+    }
+  ],
+  "flujo_mensual": [
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3119437.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2731848.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1020154.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3740625.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2671088.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1054710.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1714807.0
+    },
+    {
+      "anio": 2023,
+      "mes": 1,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1340208.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 2978753.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2312381.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 746715.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3285077.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2369893.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 947290.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1538961.0
+    },
+    {
+      "anio": 2023,
+      "mes": 2,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1313765.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3307762.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2571883.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 892007.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3629634.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2598214.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1071068.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1696756.0
+    },
+    {
+      "anio": 2023,
+      "mes": 3,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1445801.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3012883.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2893548.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1060496.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3693582.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2819679.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1140568.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1542139.0
+    },
+    {
+      "anio": 2023,
+      "mes": 4,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 969159.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3316355.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2499752.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 904200.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3663135.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2611779.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1080416.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1268989.0
+    },
+    {
+      "anio": 2023,
+      "mes": 5,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 866821.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3220305.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2283814.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 878495.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3490100.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2479201.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1070684.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1207304.0
+    },
+    {
+      "anio": 2023,
+      "mes": 6,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 891688.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3172705.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2634406.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 988308.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3842048.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2748003.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1152324.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1301277.0
+    },
+    {
+      "anio": 2023,
+      "mes": 7,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1054867.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3298223.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2530188.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 927488.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3743483.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2707470.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1145133.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1314851.0
+    },
+    {
+      "anio": 2023,
+      "mes": 8,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 941629.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3283790.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2147464.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 814971.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3525967.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2487133.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1012833.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1179884.0
+    },
+    {
+      "anio": 2023,
+      "mes": 9,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 895983.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3390927.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2080871.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 884610.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3685222.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2577844.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1055152.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1439810.0
+    },
+    {
+      "anio": 2023,
+      "mes": 10,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1579521.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3217160.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1668557.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 937166.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3710710.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2614591.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1010322.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1695170.0
+    },
+    {
+      "anio": 2023,
+      "mes": 11,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1453251.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3272577.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1825298.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1324160.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 4144284.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 3060977.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1225111.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1878666.0
+    },
+    {
+      "anio": 2023,
+      "mes": 12,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1505638.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3167847.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1648237.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1040852.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3663503.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2578663.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1091666.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1649512.0
+    },
+    {
+      "anio": 2024,
+      "mes": 1,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1397122.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3128997.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1583848.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 794958.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3372931.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2320532.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 992304.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1550628.0
+    },
+    {
+      "anio": 2024,
+      "mes": 2,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1251847.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3206167.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1838233.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1032547.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3730281.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2775898.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1142267.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1659238.0
+    },
+    {
+      "anio": 2024,
+      "mes": 3,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1466576.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3257128.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1692037.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 905959.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3392053.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2513205.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1077361.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1575082.0
+    },
+    {
+      "anio": 2024,
+      "mes": 4,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1415927.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3308482.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1710654.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 912636.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3378484.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2530926.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1140200.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1628076.0
+    },
+    {
+      "anio": 2024,
+      "mes": 5,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1507832.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3191775.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1623437.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 853275.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3137934.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2439978.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1046033.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1547469.0
+    },
+    {
+      "anio": 2024,
+      "mes": 6,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1573123.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3166959.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1709340.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1038101.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3325115.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2643049.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1173747.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1640467.0
+    },
+    {
+      "anio": 2024,
+      "mes": 7,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1734146.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3344678.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1849227.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 919671.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3140160.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2675661.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1216481.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1675423.0
+    },
+    {
+      "anio": 2024,
+      "mes": 8,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1728788.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3249770.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 2118094.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 753734.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3130211.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2471732.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1064572.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1553435.0
+    },
+    {
+      "anio": 2024,
+      "mes": 9,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1567219.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3450241.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1630433.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 807680.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3303632.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2471256.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1111960.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1611955.0
+    },
+    {
+      "anio": 2024,
+      "mes": 10,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1496796.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3350458.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1697159.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 874497.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3446765.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2555922.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1136830.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1680280.0
+    },
+    {
+      "anio": 2024,
+      "mes": 11,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1489185.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "CHAMAPA-LECHERIA",
+      "total": 3324384.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total": 1900370.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "ESTACION DON-NOGALES",
+      "total": 1182454.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "MEXICO-PUEBLA",
+      "total": 3866064.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "MEXICO-QUERETARO",
+      "total": 2961839.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "PUEBLA-ACATZINGO",
+      "total": 1297518.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "QUERETARO-IRAPUATO",
+      "total": 1830105.0
+    },
+    {
+      "anio": 2024,
+      "mes": 12,
+      "tramo": "TIJUANA-ENSENADA",
+      "total": 1495183.0
+    }
+  ],
+  "heatmap": [
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "anio": 2023,
+      "total": 44153867.0
+    },
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "anio": 2024,
+      "total": 40887133.0
+    },
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "anio": 2025,
+      "total": 20029796.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "anio": 2023,
+      "total": 38590877.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "anio": 2024,
+      "total": 39146886.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "anio": 2025,
+      "total": 19197119.0
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "anio": 2023,
+      "total": 31745872.0
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "anio": 2024,
+      "total": 30938661.0
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "anio": 2025,
+      "total": 14792446.0
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "anio": 2023,
+      "total": 28180010.0
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "anio": 2024,
+      "total": 21001069.0
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "anio": 2025,
+      "total": 13084842.0
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "anio": 2023,
+      "total": 17778614.0
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "anio": 2024,
+      "total": 19601670.0
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "anio": 2025,
+      "total": 9039112.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "anio": 2023,
+      "total": 14258331.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "anio": 2024,
+      "total": 18123744.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "anio": 2025,
+      "total": 8872704.0
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "anio": 2023,
+      "total": 12965611.0
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "anio": 2024,
+      "total": 13490939.0
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "anio": 2025,
+      "total": 6613499.0
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "anio": 2023,
+      "total": 11378770.0
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "anio": 2024,
+      "total": 11116364.0
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "anio": 2025,
+      "total": 5100186.0
+    },
+    {
+      "tramo": "GRIJALVA",
+      "anio": 2021,
+      "total": 5317807.0
+    },
+    {
+      "tramo": "GRIJALVA",
+      "anio": 2022,
+      "total": 5820352.0
+    },
+    {
+      "tramo": "GRIJALVA",
+      "anio": 2023,
+      "total": 6278330.0
+    },
+    {
+      "tramo": "GRIJALVA",
+      "anio": 2024,
+      "total": 6123171.0
+    },
+    {
+      "tramo": "GRIJALVA",
+      "anio": 2025,
+      "total": 1963368.0
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "anio": 2021,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "anio": 2022,
+      "total": 0.0
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "anio": 2023,
+      "total": 9881402.0
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "anio": 2024,
+      "total": 9559551.0
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "anio": 2025,
+      "total": 4875283.0
+    }
+  ],
+  "accidentes_por_dia": [
+    {
+      "dia": "Lunes",
+      "total": 1676.0,
+      "mortales": 309.0,
+      "tasa_mortalidad": 18.44
+    },
+    {
+      "dia": "Martes",
+      "total": 1370.0,
+      "mortales": 240.0,
+      "tasa_mortalidad": 17.52
+    },
+    {
+      "dia": "Miercoles",
+      "total": 1382.0,
+      "mortales": 240.0,
+      "tasa_mortalidad": 17.37
+    },
+    {
+      "dia": "Jueves",
+      "total": 1528.0,
+      "mortales": 268.0,
+      "tasa_mortalidad": 17.54
+    },
+    {
+      "dia": "Viernes",
+      "total": 1644.0,
+      "mortales": 293.0,
+      "tasa_mortalidad": 17.82
+    },
+    {
+      "dia": "Sabado",
+      "total": 2073.0,
+      "mortales": 416.0,
+      "tasa_mortalidad": 20.07
+    },
+    {
+      "dia": "Domingo",
+      "total": 2200.0,
+      "mortales": 437.0,
+      "tasa_mortalidad": 19.86
+    }
+  ],
+  "iluminacion": [
+    {
+      "condicion": "Luz día",
+      "total": 6356.0,
+      "mortales": 1127.0
+    },
+    {
+      "condicion": "Crepúsculo",
+      "total": 445.0,
+      "mortales": 80.0
+    },
+    {
+      "condicion": "Noche",
+      "total": 5026.0,
+      "mortales": 989.0
+    },
+    {
+      "condicion": "Alum. público",
+      "total": 46.0,
+      "mortales": 7.0
+    }
+  ],
+  "riesgo_estados": [
+    {
+      "estado": "Puebla",
+      "total_accidentes": 371,
+      "total_mortales": 97,
+      "tasa_mortalidad": 26.15,
+      "riesgo_nocturno": 45.01,
+      "indice_riesgo": 100.0,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Jalisco",
+      "total_accidentes": 484,
+      "total_mortales": 129,
+      "tasa_mortalidad": 26.65,
+      "riesgo_nocturno": 43.8,
+      "indice_riesgo": 98.4,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Estado Mexico",
+      "total_accidentes": 601,
+      "total_mortales": 144,
+      "tasa_mortalidad": 23.96,
+      "riesgo_nocturno": 45.42,
+      "indice_riesgo": 89.7,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Quintana Roo",
+      "total_accidentes": 185,
+      "total_mortales": 44,
+      "tasa_mortalidad": 23.78,
+      "riesgo_nocturno": 45.41,
+      "indice_riesgo": 88.7,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "San Luis Potosi",
+      "total_accidentes": 420,
+      "total_mortales": 113,
+      "tasa_mortalidad": 26.9,
+      "riesgo_nocturno": 40.48,
+      "indice_riesgo": 87.8,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Sinaloa",
+      "total_accidentes": 322,
+      "total_mortales": 78,
+      "tasa_mortalidad": 24.22,
+      "riesgo_nocturno": 42.86,
+      "indice_riesgo": 81.9,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Guanajuato",
+      "total_accidentes": 663,
+      "total_mortales": 146,
+      "tasa_mortalidad": 22.02,
+      "riesgo_nocturno": 45.55,
+      "indice_riesgo": 79.8,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Chihuahua",
+      "total_accidentes": 456,
+      "total_mortales": 107,
+      "tasa_mortalidad": 23.46,
+      "riesgo_nocturno": 42.32,
+      "indice_riesgo": 75.9,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Coahuila",
+      "total_accidentes": 171,
+      "total_mortales": 51,
+      "tasa_mortalidad": 29.82,
+      "riesgo_nocturno": 32.75,
+      "indice_riesgo": 75.8,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Aguascalientes",
+      "total_accidentes": 179,
+      "total_mortales": 36,
+      "tasa_mortalidad": 20.11,
+      "riesgo_nocturno": 46.93,
+      "indice_riesgo": 74.4,
+      "nivel": "ALTA"
+    },
+    {
+      "estado": "Ciudad De Mexico",
+      "total_accidentes": 67,
+      "total_mortales": 18,
+      "tasa_mortalidad": 26.87,
+      "riesgo_nocturno": 34.33,
+      "indice_riesgo": 65.6,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Hidalgo",
+      "total_accidentes": 268,
+      "total_mortales": 48,
+      "tasa_mortalidad": 17.91,
+      "riesgo_nocturno": 47.76,
+      "indice_riesgo": 65.6,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Sonora",
+      "total_accidentes": 261,
+      "total_mortales": 65,
+      "tasa_mortalidad": 24.9,
+      "riesgo_nocturno": 36.02,
+      "indice_riesgo": 61.1,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Durango",
+      "total_accidentes": 225,
+      "total_mortales": 53,
+      "tasa_mortalidad": 23.56,
+      "riesgo_nocturno": 37.78,
+      "indice_riesgo": 60.2,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Michoacan",
+      "total_accidentes": 469,
+      "total_mortales": 95,
+      "tasa_mortalidad": 20.26,
+      "riesgo_nocturno": 40.94,
+      "indice_riesgo": 53.8,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Tamaulipas",
+      "total_accidentes": 423,
+      "total_mortales": 95,
+      "tasa_mortalidad": 22.46,
+      "riesgo_nocturno": 36.88,
+      "indice_riesgo": 51.1,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Baja California Sur",
+      "total_accidentes": 201,
+      "total_mortales": 42,
+      "tasa_mortalidad": 20.9,
+      "riesgo_nocturno": 38.81,
+      "indice_riesgo": 49.6,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Colima",
+      "total_accidentes": 167,
+      "total_mortales": 31,
+      "tasa_mortalidad": 18.56,
+      "riesgo_nocturno": 40.72,
+      "indice_riesgo": 43.9,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Campeche",
+      "total_accidentes": 195,
+      "total_mortales": 26,
+      "tasa_mortalidad": 13.33,
+      "riesgo_nocturno": 48.21,
+      "indice_riesgo": 42.6,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Guerrero",
+      "total_accidentes": 393,
+      "total_mortales": 63,
+      "tasa_mortalidad": 16.03,
+      "riesgo_nocturno": 44.02,
+      "indice_riesgo": 42.1,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Veracruz",
+      "total_accidentes": 1290,
+      "total_mortales": 213,
+      "tasa_mortalidad": 16.51,
+      "riesgo_nocturno": 42.79,
+      "indice_riesgo": 40.3,
+      "nivel": "MEDIA"
+    },
+    {
+      "estado": "Baja California",
+      "total_accidentes": 377,
+      "total_mortales": 64,
+      "tasa_mortalidad": 16.98,
+      "riesgo_nocturno": 40.05,
+      "indice_riesgo": 33.0,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Queretaro",
+      "total_accidentes": 352,
+      "total_mortales": 44,
+      "tasa_mortalidad": 12.5,
+      "riesgo_nocturno": 46.31,
+      "indice_riesgo": 31.4,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Morelos",
+      "total_accidentes": 201,
+      "total_mortales": 16,
+      "tasa_mortalidad": 7.96,
+      "riesgo_nocturno": 52.24,
+      "indice_riesgo": 28.2,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Nayarit",
+      "total_accidentes": 250,
+      "total_mortales": 42,
+      "tasa_mortalidad": 16.8,
+      "riesgo_nocturno": 38.4,
+      "indice_riesgo": 26.1,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Chiapas",
+      "total_accidentes": 676,
+      "total_mortales": 79,
+      "tasa_mortalidad": 11.69,
+      "riesgo_nocturno": 43.49,
+      "indice_riesgo": 16.9,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Oaxaca",
+      "total_accidentes": 307,
+      "total_mortales": 37,
+      "tasa_mortalidad": 12.05,
+      "riesgo_nocturno": 42.67,
+      "indice_riesgo": 15.9,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Zacatecas",
+      "total_accidentes": 452,
+      "total_mortales": 71,
+      "tasa_mortalidad": 15.71,
+      "riesgo_nocturno": 35.84,
+      "indice_riesgo": 11.1,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Nuevo Leon",
+      "total_accidentes": 588,
+      "total_mortales": 87,
+      "tasa_mortalidad": 14.8,
+      "riesgo_nocturno": 36.73,
+      "indice_riesgo": 9.4,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Yucatan",
+      "total_accidentes": 184,
+      "total_mortales": 17,
+      "tasa_mortalidad": 9.24,
+      "riesgo_nocturno": 43.48,
+      "indice_riesgo": 3.7,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Tabasco",
+      "total_accidentes": 437,
+      "total_mortales": 38,
+      "tasa_mortalidad": 8.7,
+      "riesgo_nocturno": 44.16,
+      "indice_riesgo": 3.3,
+      "nivel": "BAJA"
+    },
+    {
+      "estado": "Tlaxcala",
+      "total_accidentes": 238,
+      "total_mortales": 14,
+      "tasa_mortalidad": 5.88,
+      "riesgo_nocturno": 47.48,
+      "indice_riesgo": 0.0,
+      "nivel": "BAJA"
+    }
+  ],
+  "ml_data": {
+    "confusion_matrix": {
+      "labels": [
+        "ALTA",
+        "MEDIA",
+        "BAJA"
+      ],
+      "matrix": [
+        [
+          144,
+          0,
+          0
+        ],
+        [
+          0,
+          144,
+          0
+        ],
+        [
+          0,
+          0,
+          287
+        ]
+      ]
+    },
+    "classification_report": {
+      "ALTA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 144.0
+      },
+      "MEDIA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 144.0
+      },
+      "BAJA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 287.0
+      },
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 575.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 575.0
+      }
+    },
+    "accuracy": 100.0,
+    "feature_importances": [
+      {
+        "feature": "total",
+        "importance": 100.0
+      },
+      {
+        "feature": "anio",
+        "importance": 0.0
+      },
+      {
+        "feature": "mes",
+        "importance": 0.0
+      },
+      {
+        "feature": "autos",
+        "importance": 0.0
+      },
+      {
+        "feature": "camiones_2_ejes",
+        "importance": 0.0
+      },
+      {
+        "feature": "camiones_5_ejes",
+        "importance": 0.0
+      },
+      {
+        "feature": "camiones_6_ejes",
+        "importance": 0.0
+      }
+    ],
+    "thresholds": {
+      "p75": 263357.0,
+      "p50": 144980.0
+    }
+  },
+  "alertas": [
+    {
+      "tramo": "MEXICO-PUEBLA",
+      "total_millones": 20.03,
+      "media_mensual": 3338299.0,
+      "alerta": "ALTA",
+      "score": 120.0
+    },
+    {
+      "tramo": "CHAMAPA-LECHERIA",
+      "total_millones": 19.2,
+      "media_mensual": 3199520.0,
+      "alerta": "ALTA",
+      "score": 119.2
+    },
+    {
+      "tramo": "MEXICO-QUERETARO",
+      "total_millones": 14.79,
+      "media_mensual": 2465408.0,
+      "alerta": "ALTA",
+      "score": 114.8
+    },
+    {
+      "tramo": "CUERNAVACA-ACAPULCO",
+      "total_millones": 13.08,
+      "media_mensual": 2180807.0,
+      "alerta": "ALTA",
+      "score": 113.1
+    },
+    {
+      "tramo": "QUERETARO-IRAPUATO",
+      "total_millones": 9.04,
+      "media_mensual": 1506519.0,
+      "alerta": "ALTA",
+      "score": 109.0
+    },
+    {
+      "tramo": "TIJUANA-ENSENADA",
+      "total_millones": 8.87,
+      "media_mensual": 1478784.0,
+      "alerta": "ALTA",
+      "score": 108.9
+    },
+    {
+      "tramo": "PUEBLA-ACATZINGO",
+      "total_millones": 6.61,
+      "media_mensual": 1102250.0,
+      "alerta": "ALTA",
+      "score": 106.6
+    },
+    {
+      "tramo": "ESTACION DON-NOGALES",
+      "total_millones": 5.1,
+      "media_mensual": 850031.0,
+      "alerta": "ALTA",
+      "score": 105.1
+    },
+    {
+      "tramo": "MEXICO-CUERNAVACA",
+      "total_millones": 4.88,
+      "media_mensual": 812547.0,
+      "alerta": "ALTA",
+      "score": 104.9
+    },
+    {
+      "tramo": "TEHUACAN-OAXACA",
+      "total_millones": 4.47,
+      "media_mensual": 745272.0,
+      "alerta": "ALTA",
+      "score": 104.5
+    },
+    {
+      "tramo": "LA PERA-CUAUTLA",
+      "total_millones": 4.2,
+      "media_mensual": 699462.0,
+      "alerta": "ALTA",
+      "score": 104.2
+    },
+    {
+      "tramo": "CORDOBA-VERACRUZ",
+      "total_millones": 3.81,
+      "media_mensual": 634823.0,
+      "alerta": "ALTA",
+      "score": 103.8
+    },
+    {
+      "tramo": "AEROPUERTO LOS CABOS-SAN JOSE DEL CABO-CABO SAN LUCAS",
+      "total_millones": 2.26,
+      "media_mensual": 377300.0,
+      "alerta": "ALTA",
+      "score": 102.3
+    },
+    {
+      "tramo": "LA TINAJA-COSOLEACAQUE",
+      "total_millones": 2.24,
+      "media_mensual": 373517.0,
+      "alerta": "ALTA",
+      "score": 102.2
+    },
+    {
+      "tramo": "GRIJALVA",
+      "total_millones": 1.96,
+      "media_mensual": 490842.0,
+      "alerta": "ALTA",
+      "score": 102.0
+    },
+    {
+      "tramo": "LIBRAMIENTO AMECAMECA-NEPANTLA",
+      "total_millones": 1.58,
+      "media_mensual": 263629.0,
+      "alerta": "ALTA",
+      "score": 101.6
+    },
+    {
+      "tramo": "SINALOA",
+      "total_millones": 1.49,
+      "media_mensual": 371641.0,
+      "alerta": "ALTA",
+      "score": 101.5
+    },
+    {
+      "tramo": "DOVALÍ JAIME",
+      "total_millones": 1.48,
+      "media_mensual": 370198.0,
+      "alerta": "ALTA",
+      "score": 101.5
+    },
+    {
+      "tramo": "ACATZINGO-CD MENDOZA",
+      "total_millones": 1.43,
+      "media_mensual": 238807.0,
+      "alerta": "ALTA",
+      "score": 101.4
+    },
+    {
+      "tramo": "LA RUMOROSA-TECATE",
+      "total_millones": 1.41,
+      "media_mensual": 235688.0,
+      "alerta": "MEDIA",
+      "score": 61.4
+    }
+  ]
+}

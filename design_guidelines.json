@@ -1,0 +1,73 @@
+{
+  "theme": "Light",
+  "archetype": "Archetype 4: Swiss & High-Contrast (Adapted for Purple/Orange Brand)",
+  "colors": {
+    "primary": "#6B21A8",
+    "primary_hover": "#581C87",
+    "secondary": "#E67E22",
+    "secondary_hover": "#D35400",
+    "background": "#F9FAFB",
+    "surface": "#FFFFFF",
+    "text_primary": "#111827",
+    "text_secondary": "#4B5563",
+    "border": "#E5E7EB",
+    "alerts": {
+      "alta": "#C0392B",
+      "media": "#E67E22",
+      "baja": "#2980B9"
+    }
+  },
+  "typography": {
+    "heading_font": "Manrope",
+    "body_font": "IBM Plex Sans",
+    "scale": {
+      "h1": "text-4xl tracking-tight font-black text-[#111827]",
+      "h2": "text-2xl tracking-tight font-bold text-[#111827]",
+      "h3": "text-xl font-semibold text-[#111827]",
+      "body": "text-base font-normal text-[#4B5563]",
+      "small": "text-xs font-bold text-[#6B7280] uppercase tracking-[0.2em]"
+    }
+  },
+  "layout": {
+    "grid_strategy": "MODE B: CONTROL ROOM",
+    "spacing": "p-6 gap-6",
+    "sidebar": "w-64 border-r border-border bg-white flex flex-col",
+    "header": "h-16 border-b border-border bg-white flex items-center px-6 justify-between",
+    "content": "flex-1 p-8 bg-[#F9FAFB] overflow-auto"
+  },
+  "components": {
+    "kpi_card": "bg-white p-6 border border-border flex flex-col gap-2 hover:-translate-y-1 hover:shadow-lg transition-transform duration-200 cursor-pointer",
+    "tabs": "flex border-b border-border mb-6",
+    "tab_item": "px-6 py-3 text-sm font-semibold border-b-2 border-transparent text-[#4B5563] hover:text-[#6B21A8] transition-colors data-[state=active]:border-[#6B21A8] data-[state=active]:text-[#6B21A8]",
+    "modal": "fixed inset-0 bg-black/60 backdrop-blur-md z-50 flex items-center justify-center p-6",
+    "modal_content": "bg-white p-8 border border-border/20 shadow-2xl max-w-5xl w-full max-h-[90vh] overflow-y-auto relative",
+    "chart_container": "bg-white p-6 border border-border min-h-[350px] flex flex-col gap-4 shadow-sm"
+  },
+  "icons": {
+    "library": "@mui/icons-material",
+    "installation": "npm install @mui/icons-material @mui/material @emotion/react @emotion/styled"
+  },
+  "architecture": {
+    "pattern": "Atomic Design",
+    "structure": {
+      "atoms": "Basic UI elements (Buttons, Inputs, Typography, Material Icons, Badges)",
+      "molecules": "Combinations of atoms (Form Fields, KPI Cards, Tab Items, Alert Badges)",
+      "organisms": "Complex UI sections (Sidebar, Header, Chart Widgets, ML Form, Data Tables, Modals)",
+      "templates": "Page layouts without data (Dashboard Layout)",
+      "pages": "Complete views with connected data (Main Dashboard App, Tabs Content)"
+    }
+  },
+  "instructions_to_main_agent": [
+    "IMPLEMENT ATOMIC DESIGN STRICTLY: Create folders for atoms, molecules, organisms, templates, and pages inside src/components.",
+    "Use @mui/icons-material for all icons. Do not use lucide-react. The user explicitly requested Material-UI icons.",
+    "Do not use emojis anywhere in the UI.",
+    "Apply the Purple (#6B21A8) as primary and Orange (#E67E22) as secondary brand colors as requested.",
+    "Alert colors must be mapped EXACTLY to: ALTA = #C0392B, MEDIA = #E67E22, BAJA = #2980B9. Do not alter these.",
+    "Headings MUST use 'Manrope' font, body uses 'IBM Plex Sans'. NEVER use Inter for headings.",
+    "Integrate Recharts for all data visualization. Ensure tooltips and axes use the body font and follow the high-contrast color scheme.",
+    "When a user clicks on a specific chart or KPI card, open a Modal (Organism) showing a detailed expanded view of that data.",
+    "All interactive elements MUST have a data-testid attribute in kebab-case (e.g., data-testid='tab-traffic').",
+    "Keep the background light (#F9FAFB) and surfaces white (#FFFFFF) for high contrast and readability. Do not implement dark mode.",
+    "Ensure the ML model tab includes a visual representation of a decision tree, confusion matrix, classification report, and an interactive prediction form."
+  ]
+}
